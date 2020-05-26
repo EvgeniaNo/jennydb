@@ -8,6 +8,7 @@ products:
 - azure
 - aspnet-core
 - azure-app-service
+- other products
 ---
 
 # .NET Core MVC sample for Azure App Service
